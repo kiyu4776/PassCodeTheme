@@ -1,0 +1,27 @@
+{
+  "repo_name": "myrepo",
+  "repo_author": "kiyu4776",
+  "repo_icon": "https://github.com/kiyu4776.png",
+  "themes": [
+    {
+      "name": "test",
+      "description": "My custom theme for personal use.",
+      "url": "passcode-themes/mytheme.passthm",
+      "preview": "passcodetheme/mytheme.png",
+      "contact": {
+        "GitHub": "@kiyu4776"
+      },
+      "version": "1.0"
+    },
+    {
+      "name": "Roboto Mono",
+      "description": "Roboto Mono passcode theme",
+      "url": "robotomono.passthm",
+      "preview": "",
+      "contact": {
+        "GitHub": "@kiyu4776"
+      },
+      "version": "1.0"
+    }
+  ]
+}
